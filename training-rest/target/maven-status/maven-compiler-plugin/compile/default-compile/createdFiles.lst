@@ -1,0 +1,11 @@
+ws\synopsis\trainingrest\api\TrainingApi.class
+ws\synopsis\treiningrest\model\GetCountryRequest.class
+ws\synopsis\trainingrest\model\GetCountryResponse.class
+ws\synopsis\trainingrest\service\impl\TrainingServiceImpl.class
+ws\synopsis\trainingrest\model\Currency.class
+ws\synopsis\trainingrest\repository\ErrorResonse.class
+ws\synopsis\trainingrest\repository\CountryRepository.class
+ws\synopsis\trainingrest\TrainingRestApplication.class
+ws\synopsis\trainingrest\model\Country.class
+ws\synopsis\trainingrest\Request\CountryRequest.class
+ws\synopsis\trainingrest\service\TrainingService.class
